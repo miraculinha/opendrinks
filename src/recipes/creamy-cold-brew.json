@@ -1,0 +1,40 @@
+{
+    "name": "Creamy Cold Brew",
+    "description": "A creamy and tasty original recipe of cold brew",
+    "github": "miraculinha",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "cups",
+            "ingredient": "Plant milk"
+        },
+        {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "Ground Coffee"
+        },
+        {
+            "quantity": "1",
+            "measure": "teaspoon",
+            "ingredient": "Cocoa Powder"
+        },
+        {
+            "quantity": "2",
+            "measure": "teaspoon",
+            "ingredient": "Honey"
+        },
+    ],
+    "directions": [
+        "Mix all ingredients in a container.",
+        "Let it rest in the fridge for 2 to 6 hours.",
+        "Strain the liquid before drinking."
+        "You can add vanilla, cinnamon, nutmeg, or other spices",
+        "Honey can be substituted for sugar and plant milk for regular milk."
+    ],
+    "image": "<creamy-cold-brew.jpg>"
+    "keywords": [
+        "coffee",
+        "cold",
+        "dairy free"
+    ]
+}
